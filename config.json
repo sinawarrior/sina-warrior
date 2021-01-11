@@ -1,0 +1,31 @@
+{
+    "serverip": "5.63.10.230:30120",
+    "channel-id": "797944249441714196",
+    "message-id": "798171198843650078",
+    "discord": {
+        "discord-not-found": "**Discord Not Found**",
+        "tag-discord": false
+    },
+    "online": {
+        "title": "FiveM Server Status | The Server Is ✅Online✅",
+        "color": "GREEN",
+        "description": "Server Players: 🐌**%players_amount%/%max_players_amount%**",
+        "field1-title": "**📌ID**",
+        "field2-title": "**💢Name**",
+        "field3-title": "**⚙️Discord**",
+        "footer": "Code Bot : Ak_W̶a̶r̶r̶i̶o̶r̶#9983 | Last Updated: %hour%:%minute%:%second% - %day%/%month%/%year%"
+    },
+    "offline": {
+        "title": "FiveM Server Status | The Server Is ❌Offline❌",
+        "color": "RED",
+        "description": "Server Players Amount: 🐌**0/0**",
+        "field1-title": "**📌ID**",
+        "field1-value": "...",
+        "field2-title": "**💢Name**",
+        "field2-value": "...",
+        "field3-title": "**⚙️Discord**",
+        "field3-value": "...",
+        "footer": "Code Bot : Ak_W̶a̶r̶r̶i̶o̶r̶#9983 | Last Updated: %hour%:%minute%:%second% - %day%/%month%/%year%"
+    },
+    "bot-token": "Nzk3OTQzNjI2NjUwNjE1ODUx.X_t06Q.f_o97DBgJ3HZtzlkHYf31zDoAMU"
+}

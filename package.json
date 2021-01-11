@@ -1,0 +1,21 @@
+{
+  "name": "fivem-status",
+  "version": "1.0.0",
+  "description": "A FiveM Discord Bot Created By sinawarrior has ben private code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaWarrior/fivem-status.git"
+  },
+  "author": "sinawarrior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinaWarrior/fivem-status/issues"
+  },
+  "homepage": "https://github.com/SinaWarrior/fivem-status#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
